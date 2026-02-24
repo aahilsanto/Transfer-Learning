@@ -96,26 +96,21 @@ train_model(model, train_loader,test_loader)
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
-</br>
-</br>
-</br>
+
+<img width="461" height="224" alt="image" src="https://github.com/user-attachments/assets/998db22e-a507-4479-b5f0-a2e6089c0726" />
 
 ### Confusion Matrix
 
+<img width="770" height="657" alt="image" src="https://github.com/user-attachments/assets/b41e8887-c3f0-4fe5-8a85-f26bfdb6ca86" />
 
 ### Classification Report
-Include Classification Report here
-</br>
-</br>
-</br>
+
+<img width="894" height="534" alt="image" src="https://github.com/user-attachments/assets/19f0bffc-55aa-469d-b8b9-c6e5e61043d4" />
 
 ### New Sample Prediction
-</br>
-</br>
-</br>
+
+<img width="912" height="697" alt="image" src="https://github.com/user-attachments/assets/3007e071-5a69-49a8-85a9-6b5065ca060c" />
 
 ## RESULT
-</br>
-</br>
-</br>
+
+Thus to Implement Transfer Learning for classification using VGG-19 architecture is done successfully.

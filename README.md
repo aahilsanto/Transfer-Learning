@@ -5,7 +5,7 @@ To Implement Transfer Learning for classification using VGG-19 architecture.
 
 The objective of this experiment is to perform image classification using transfer learning with a pre-trained deep learning model. A convolutional neural network based on VGG19 is used as the base model to classify images into two categories. Instead of training the network from scratch, the pre-trained weights learned from ImageNet are utilized to extract high-level features. The final fully connected layer of the model is modified to suit the binary classification task. The model is trained and evaluated using loss curves, confusion matrix, and classification report to measure performance.
 
-<img width="847" height="218" alt="image" src="https://github.com/user-attachments/assets/9963fd56-3904-469e-8cba-854cc8a1f0a3" />
+<img width="732" height="163" alt="image" src="https://github.com/user-attachments/assets/2e85732d-4610-4572-9412-52e0e95eed57" />
 
 
 ## DESIGN STEPS
@@ -97,19 +97,25 @@ train_model(model, train_loader,test_loader)
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="461" height="224" alt="image" src="https://github.com/user-attachments/assets/998db22e-a507-4479-b5f0-a2e6089c0726" />
+<img width="795" height="265" alt="image" src="https://github.com/user-attachments/assets/17a627ec-c40f-4359-84f5-e2bb0a877eaa" />
+
+<img width="822" height="262" alt="image" src="https://github.com/user-attachments/assets/5bd5bc70-8810-41ca-8644-82bd43d9850e" />
+
+<img width="825" height="592" alt="image" src="https://github.com/user-attachments/assets/41910294-130e-49aa-b2f2-f74d732ff423" />
 
 ### Confusion Matrix
 
-<img width="770" height="657" alt="image" src="https://github.com/user-attachments/assets/b41e8887-c3f0-4fe5-8a85-f26bfdb6ca86" />
+<img width="766" height="609" alt="image" src="https://github.com/user-attachments/assets/4acfa94a-74a3-45e4-bdac-7ffb7e966ea6" />
 
 ### Classification Report
 
-<img width="894" height="534" alt="image" src="https://github.com/user-attachments/assets/19f0bffc-55aa-469d-b8b9-c6e5e61043d4" />
+<img width="858" height="352" alt="image" src="https://github.com/user-attachments/assets/b726196c-b886-4ce8-95f7-1f470e3d9d8f" />
 
 ### New Sample Prediction
 
-<img width="912" height="697" alt="image" src="https://github.com/user-attachments/assets/3007e071-5a69-49a8-85a9-6b5065ca060c" />
+<img width="765" height="665" alt="image" src="https://github.com/user-attachments/assets/d337c7f9-0992-4e0d-aca0-ba2ebc766684" />
+
+<img width="820" height="640" alt="image" src="https://github.com/user-attachments/assets/36dc7e29-9743-416b-8a83-8241eb40f5d5" />
 
 ## RESULT
 

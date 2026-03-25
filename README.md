@@ -97,23 +97,24 @@ train_model(model, train_loader,test_loader)
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="795" height="265" alt="image" src="https://github.com/user-attachments/assets/17a627ec-c40f-4359-84f5-e2bb0a877eaa" />
+<img width="610" height="214" alt="image" src="https://github.com/user-attachments/assets/987c4682-782c-4a3d-9574-d213aa72a05a" />
 
-<img width="822" height="262" alt="image" src="https://github.com/user-attachments/assets/5bd5bc70-8810-41ca-8644-82bd43d9850e" />
+<img width="659" height="212" alt="image" src="https://github.com/user-attachments/assets/67b0b335-dd84-47e9-9c57-1651637b8ccf" />
 
-<img width="825" height="592" alt="image" src="https://github.com/user-attachments/assets/41910294-130e-49aa-b2f2-f74d732ff423" />
+<img width="983" height="753" alt="image" src="https://github.com/user-attachments/assets/c411f4e4-24b6-470b-8f4e-860cabeb3354" />
+
 
 ### Confusion Matrix
 
-<img width="766" height="609" alt="image" src="https://github.com/user-attachments/assets/4acfa94a-74a3-45e4-bdac-7ffb7e966ea6" />
+<img width="941" height="717" alt="image" src="https://github.com/user-attachments/assets/ba56ff2b-e4aa-4996-b61d-f30a54a55e74" />
 
 ### Classification Report
 
-<img width="858" height="352" alt="image" src="https://github.com/user-attachments/assets/b726196c-b886-4ce8-95f7-1f470e3d9d8f" />
+<img width="790" height="340" alt="image" src="https://github.com/user-attachments/assets/b483923e-8e49-4088-939e-2b728ca957fa" />
 
 ### New Sample Prediction
 
-<img width="765" height="665" alt="image" src="https://github.com/user-attachments/assets/d337c7f9-0992-4e0d-aca0-ba2ebc766684" />
+<img width="693" height="528" alt="image" src="https://github.com/user-attachments/assets/5c195c02-2d3d-4bea-9cd3-185a6ee53027" />
 
 <img width="820" height="640" alt="image" src="https://github.com/user-attachments/assets/36dc7e29-9743-416b-8a83-8241eb40f5d5" />
 
